@@ -1,4 +1,4 @@
-# TORII Power · Demo edition
+# TORII Power
 
 An interactive demo of TORII Power, a Japan power-market intelligence platform concept:
 day-ahead price distributions, nine-area grid, PPA and battery valuation, balancing,
